@@ -1,0 +1,4 @@
+baseURL = "http://zloop.top/"
+languageCode = "en-us"
+title = "zloop"
+theme = "hyde-hyde"
